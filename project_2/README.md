@@ -1,3 +1,3 @@
 Deep Learning Course Project 2
 
-In Progress
+The task is to classify images from QuickDraw Dataset with CNN.
