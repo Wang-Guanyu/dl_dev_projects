@@ -1,3 +1,7 @@
-Deep Learning Course Project 3
+### Deep Learning Course Project 3
 
-The task is to predict the next sentance by given a sentance from a text file with RNN.
+The project is to predict the next char by given a random sentance from text file with LSTM model.
+
+Dataset: **tinyshakespeare** - the example from Karpathy
+
+Dataset can be downloaded from:
