@@ -19,4 +19,4 @@ Why we need this: In industrial, some types of defects are unusual, if we want t
 Dataset: 100 images as ground truth input.
 
 
-Dataset can be downloaded from:
+Dataset can be downloaded from: https://share.weiyun.com/30aafc825aaee6c057bd5457d6111df9
